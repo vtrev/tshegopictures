@@ -1,0 +1,14 @@
+/* Size the video on the card  */
+
+video {
+    max-width: 100%;
+}
+
+.like-count,
+.like-heart {
+    float: right;
+}
+
+.card-title {
+    text-align: center;
+}
